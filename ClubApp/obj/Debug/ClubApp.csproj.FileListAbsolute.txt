@@ -1,0 +1,38 @@
+H:/com123-new/SLee_300981063_3/ClubApp/bin/Debug/ClubApp.exe.config
+H:/com123-new/SLee_300981063_3/ClubApp/bin/Debug/ClubApp.exe
+H:/com123-new/SLee_300981063_3/ClubApp/bin/Debug/ClubApp.pdb
+H:/com123-new/SLee_300981063_3/ClubApp/bin/Debug/ClubLib.dll
+H:/com123-new/SLee_300981063_3/ClubApp/bin/Debug/ClubLib.pdb
+H:/com123-new/SLee_300981063_3/ClubApp/obj/Debug/ClubApp.csprojResolveAssemblyReference.cache
+H:/com123-new/SLee_300981063_3/ClubApp/obj/Debug/ClubApp.exe
+H:/com123-new/SLee_300981063_3/ClubApp/obj/Debug/ClubApp.pdb
+C:/Users/300981063/Desktop/SLee_300981063_3/ClubApp/bin/Debug/ClubApp.exe.config
+C:/Users/300981063/Desktop/SLee_300981063_3/ClubApp/bin/Debug/ClubApp.exe
+C:/Users/300981063/Desktop/SLee_300981063_3/ClubApp/bin/Debug/ClubApp.pdb
+C:/Users/300981063/Desktop/SLee_300981063_3/ClubApp/bin/Debug/ClubLib.dll
+C:/Users/300981063/Desktop/SLee_300981063_3/ClubApp/bin/Debug/ClubLib.pdb
+C:/Users/300981063/Desktop/SLee_300981063_3/ClubApp/obj/Debug/ClubApp.csprojResolveAssemblyReference.cache
+C:/Users/300981063/Desktop/SLee_300981063_3/ClubApp/obj/Debug/ClubApp.exe
+C:/Users/300981063/Desktop/SLee_300981063_3/ClubApp/obj/Debug/ClubApp.pdb
+/Users/mars_mac/Downloads/SLee_300981063_3 2/ClubApp/bin/Debug/ClubApp.exe.config
+/Users/mars_mac/Downloads/SLee_300981063_3 2/ClubApp/bin/Debug/ClubApp.exe
+/Users/mars_mac/Downloads/SLee_300981063_3 2/ClubApp/bin/Debug/ClubApp.pdb
+/Users/mars_mac/Downloads/SLee_300981063_3 2/ClubApp/bin/Debug/ClubLib.dll
+/Users/mars_mac/Downloads/SLee_300981063_3 2/ClubApp/bin/Debug/ClubLib.pdb
+/Users/mars_mac/Downloads/SLee_300981063_3 2/ClubApp/obj/Debug/ClubApp.csprojResolveAssemblyReference.cache
+/Users/mars_mac/Downloads/SLee_300981063_3 2/ClubApp/obj/Debug/ClubApp.csproj.CoreCompileInputs.cache
+/Users/mars_mac/Downloads/SLee_300981063_3 2/ClubApp/obj/Debug/ClubApp.exe
+/Users/mars_mac/Downloads/SLee_300981063_3 2/ClubApp/obj/Debug/ClubApp.pdb
+\\tsclient\E\com123\SLee_300981063_4\ClubApp\bin\Debug\ClubApp.exe.config
+\\tsclient\E\com123\SLee_300981063_4\ClubApp\obj\Debug\ClubApp.exe
+\\tsclient\E\com123\SLee_300981063_4\ClubApp\obj\Debug\ClubApp.pdb
+H:\SLee_300981063_4\ClubApp\bin\Debug\ClubApp.exe.config
+H:\SLee_300981063_4\ClubApp\obj\Debug\ClubApp.exe
+H:\SLee_300981063_4\ClubApp\obj\Debug\ClubApp.pdb
+H:\SLee_300981063_4\ClubApp\bin\Debug\ClubApp.exe
+H:\SLee_300981063_4\ClubApp\bin\Debug\ClubApp.pdb
+H:\SLee_300981063_4\ClubApp\bin\Debug\ClubLib.dll
+H:\SLee_300981063_4\ClubApp\bin\Debug\ClubLib.pdb
+H:\SLee_300981063_4\ClubApp\obj\Debug\ClubApp.csprojResolveAssemblyReference.cache
+H:\SLee_300981063_4\ClubApp\obj\Debug\ClubApp.csproj.GenerateResource.Cache
+H:\SLee_300981063_4\ClubApp\obj\Debug\ConsoleSwim123.Program.resources
